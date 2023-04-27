@@ -1,0 +1,11 @@
+Date                         Level    Log Text
+2022-08-16, 5:51:30.153 PM   INFO   "Starting test pipeline with creds workflow"
+2022-08-16, 5:54:56.873 PM   INFO   "New Approval 2 was automatically approved"
+2022-08-16, 5:54:57.692 PM   INFO   "Starting Backend pipeline"
+2022-08-16, 5:55:08.932 PM   ERROR   "Pipeline Backend execution status is FAILED -> {}"
+2022-08-16, 5:55:08.932 PM   ERROR   "Workflow test pipeline with creds execution has been failed Pipeline Backend execution status is FAILED"
+
+
+
+
+FFAAIILL
